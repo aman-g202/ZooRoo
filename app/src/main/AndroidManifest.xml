@@ -21,6 +21,8 @@
             android:theme="@style/Theme.AppCompat.NoActionBar"></activity>
         <activity android:name=".SupermainActivity"/>
         <activity android:name=".SignupActivity"/>
+        <activity android:name=".AboutUsActivity"/>
+        <activity android:name=".LegalPolicyActivity"/>
     </application>
 
 </manifest>
